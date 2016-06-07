@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:03.318880
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:24
 #+TITLE: 梵本大悲神咒
 #+PROPERTY: CBETA_ID C071n1666
 #+PROPERTY: ID KR6j0268
 #+PROPERTY: SOURCE Zhonghua Canon Vol. 071, No. 1666
 #+PROPERTY: VOL 071
 #+PROPERTY: BASEEDITION C
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0268_C_001-0161a> 
 #+PROPERTY: JUAN 1
-
- 梵本大悲神呪¶
+梵本大悲神呪¶
 
 唵那謨癹葛斡諦。啞哩雅(二合)斡盧結諦說囉¶
 耶。菩提薩埵耶。麻訶薩埵耶。麻訶葛嚕聶葛¶
